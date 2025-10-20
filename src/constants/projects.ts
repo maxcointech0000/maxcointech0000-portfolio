@@ -10,7 +10,6 @@ export const projects: Project[] = [
     shortDescription: 'AI-powered creative content generation platform',
     technologies: ['Python', 'TensorFlow', 'React', 'FastAPI', 'Docker'],
     liveUrl: 'https://www.tanka.ai/',
-    githubUrl: 'https://github.com/maxcointech/tanka-ai',
     userCount: '10,000+',
     images: [
       'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop&auto=format',
@@ -30,7 +29,6 @@ export const projects: Project[] = [
     shortDescription: 'Enterprise AI analytics and predictive modeling',
     technologies: ['Node.js', 'Python', 'Vue.js', 'PostgreSQL', 'Redis'],
     liveUrl: 'https://www.fn7.io/',
-    githubUrl: 'https://github.com/maxcointech/fn7-platform',
     userCount: '5,000+',
     images: [
       'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop&auto=format',
@@ -50,7 +48,7 @@ export const projects: Project[] = [
     shortDescription: 'AI-powered technical interview platform',
     technologies: ['React', 'TypeScript', 'OpenAI API', 'WebRTC', 'MongoDB'],
     liveUrl: 'https://intervueai-io.vercel.app/',
-    githubUrl: 'https://github.com/maxcointech/intervueai',
+    githubUrl: 'https://github.com/maxcointech0000/AI-IntervueAI',
     userCount: '15,000+',
     images: [
       'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=800&h=600&fit=crop&auto=format',
@@ -72,7 +70,7 @@ export const projects: Project[] = [
     shortDescription: 'Decentralized NFT marketplace for digital art',
     technologies: ['Solidity', 'Web3.js', 'React', 'IPFS', 'Ethereum'],
     liveUrl: 'https://blockstellart.com/',
-    githubUrl: 'https://github.com/maxcointech/blockstellart',
+    githubUrl: 'https://github.com/maxcointech0000/blockstellart',
     userCount: '25,000+',
     images: [
       'https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=600&fit=crop&auto=format',
@@ -92,7 +90,7 @@ export const projects: Project[] = [
     shortDescription: 'Complete NFT marketplace with minting and auctions',
     technologies: ['Solidity', 'Next.js', 'Ethers.js', 'Hardhat', 'Polygon'],
     liveUrl: 'https://devpavan04.github.io/cryptoboys-nft-marketplace/',
-    githubUrl: 'https://github.com/maxcointech/cryptoboys-nft',
+    githubUrl: 'https://github.com/maxcointech0000/BLOCKCHAIN-Cryptoboys_NFT_Marketplace',
     userCount: '8,000+',
     images: [
       'https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=800&h=600&fit=crop&auto=format',
@@ -114,7 +112,7 @@ export const projects: Project[] = [
     shortDescription: 'Enterprise conversational AI assistant',
     technologies: ['Python', 'NLP', 'React', 'WebSocket', 'PostgreSQL'],
     liveUrl: 'https://ai-shifu.com/',
-    githubUrl: 'https://github.com/maxcointech/ai-shifu',
+    githubUrl: 'https://github.com/maxcointech0000/CHATBOT-AI_Shifu',
     userCount: '50,000+',
     images: [
       'https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800&h=600&fit=crop&auto=format',
@@ -136,7 +134,7 @@ export const projects: Project[] = [
     shortDescription: 'Photo blending and enhancement mobile app',
     technologies: ['React Native', 'TypeScript', 'Firebase', 'ML Kit', 'Redux'],
     liveUrl: 'https://blendy-download.vercel.app/',
-    githubUrl: 'https://github.com/maxcointech/blendy-app',
+    githubUrl: 'https://github.com/maxcointech0000/APP-Blendy',
     userCount: '100,000+',
     images: [
       'https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&h=600&fit=crop&auto=format',
@@ -158,7 +156,7 @@ export const projects: Project[] = [
     shortDescription: 'Complete travel booking and review platform',
     technologies: ['MERN', 'Stripe', 'Socket.io', 'Redis', 'AWS S3'],
     liveUrl: 'https://wanderlust-beta.vercel.app/',
-    githubUrl: 'https://github.com/maxcointech/wanderlust',
+    githubUrl: 'https://github.com/maxcointech0000/MERN-Wanderlust',
     userCount: '75,000+',
     images: [
       'https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=600&fit=crop&auto=format',
@@ -178,7 +176,7 @@ export const projects: Project[] = [
     shortDescription: 'Video streaming platform with recommendations',
     technologies: ['React', 'Node.js', 'MongoDB', 'JWT', 'Cloudinary'],
     liveUrl: 'https://watchit-1.onrender.com/',
-    githubUrl: 'https://github.com/maxcointech/watchit',
+    githubUrl: 'https://github.com/maxcointech0000/MERN-WATCHit',
     userCount: '30,000+',
     images: [
       'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=600&fit=crop&auto=format',
