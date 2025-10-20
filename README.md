@@ -172,7 +172,7 @@ Feel free to fork this project and customize it for your own portfolio. If you c
 
 ## 📞 Contact
 
-- **Email**: max.coin.tech@gmail.com
+- **Email**: daniellaura235@gmail.com
 - **Discord**: maxcointech0000
 - **Telegram**: maxcointech1007
 
