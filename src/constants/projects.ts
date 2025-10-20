@@ -197,7 +197,7 @@ export const testimonials = [
     role: 'CTO',
     company: 'TechCorp',
     content: 'Outstanding work on our AI platform. Delivered beyond expectations with clean, scalable code and innovative solutions.',
-    avatar: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=faces',
+    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=100&h=100&fit=crop&auto=format&crop=face',
     rating: 5
   },
   {
