@@ -36,7 +36,7 @@ Message:
 ${formData.message}
       `);
       
-      window.open(`mailto:max.coin.tech@gmail.com?subject=${subject}&body=${body}`);
+      window.open(`mailto:daniellaura235@gmail.com?subject=${subject}&body=${body}`);
       
       setSubmitStatus('success');
       setFormData({ name: '', email: '', subject: '', message: '' });
@@ -80,7 +80,7 @@ ${formData.message}
             {/* Contact methods */}
             <div className="space-y-6">
               <a
-                href="mailto:max.coin.tech@gmail.com"
+                href="mailto:daniellaura235@gmail.com"
                 className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-blue-500/50 transition-all duration-300"
               >
                 <div className="p-3 bg-gradient-to-r from-blue-600 to-blue-500 rounded-full group-hover:scale-110 transition-transform">
@@ -90,7 +90,7 @@ ${formData.message}
                   <div className="font-semibold text-white group-hover:text-blue-400 transition-colors">
                     Email
                   </div>
-                  <div className="text-gray-400 text-sm">max.coin.tech@gmail.com</div>
+                  <div className="text-gray-400 text-sm">daniellaura235@gmail.com</div>
                 </div>
               </a>
 
