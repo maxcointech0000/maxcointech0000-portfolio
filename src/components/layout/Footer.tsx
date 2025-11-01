@@ -25,13 +25,13 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a
-                href="mailto:maxcointech1007@gmail.com"
+                href="mailto:thtduoje@gmail.com"
                 className="p-3 bg-gray-800 hover:bg-blue-600 text-gray-300 hover:text-white rounded-full transition-colors"
               >
                 <Mail size={18} />
               </a>
               <a
-                href="https://discord.com/users/maxcointech0000"
+                href="https://discord.com/users/maxcointech1007"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-indigo-600 text-gray-300 hover:text-white rounded-full transition-colors"
@@ -39,7 +39,7 @@ const Footer = () => {
                 <MessageCircle size={18} />
               </a>
               <a
-                href="https://t.me/maxcointech1007"
+                href="https://t.me/maxcointech1010"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-cyan-600 text-gray-300 hover:text-white rounded-full transition-colors"
@@ -47,7 +47,7 @@ const Footer = () => {
                 <MessageCircle size={18} />
               </a>
               <a
-                href="https://github.com/maxcointech"
+                href="https://github.com/maxcointech0000"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-800 hover:bg-gray-600 text-gray-300 hover:text-white rounded-full transition-colors"
