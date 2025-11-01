@@ -89,14 +89,14 @@ const HeroSection = () => {
         {/* Social links */}
         <div className="flex justify-center gap-6 mb-16">
           <a
-            href="mailto:maxcointech1007@gmail.com"
+            href="mailto:thtduoje@gmail.com"
             className="group flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-blue-600 to-blue-500 text-white rounded-full hover:shadow-lg hover:shadow-blue-500/25 transform hover:-translate-y-1 transition-all duration-300"
           >
             <Mail size={20} />
             Email
           </a>
           <a
-            href="https://discord.com/users/maxcointech0000"
+            href="https://discord.com/users/maxcointech1007"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-indigo-600 to-purple-600 text-white rounded-full hover:shadow-lg hover:shadow-purple-500/25 transform hover:-translate-y-1 transition-all duration-300"
@@ -105,7 +105,7 @@ const HeroSection = () => {
             Discord
           </a>
           <a
-            href="https://t.me/maxcointech1007"
+            href="https://t.me/maxcointech1010"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full hover:shadow-lg hover:shadow-cyan-500/25 transform hover:-translate-y-1 transition-all duration-300"
