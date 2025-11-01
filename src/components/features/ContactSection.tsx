@@ -36,7 +36,7 @@ Message:
 ${formData.message}
       `);
       
-      window.open(`mailto:maxcointech1007@gmail.com?subject=${subject}&body=${body}`);
+      window.open(`mailto:thtduoje@gmail.com?subject=${subject}&body=${body}`);
       
       setSubmitStatus('success');
       setFormData({ name: '', email: '', subject: '', message: '' });
@@ -80,7 +80,7 @@ ${formData.message}
             {/* Contact methods */}
             <div className="space-y-6">
               <a
-                href="mailto:maxcointech1007@gmail.com"
+                href="mailto:thtduoje@gmail.com"
                 className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-blue-500/50 transition-all duration-300"
               >
                 <div className="p-3 bg-gradient-to-r from-blue-600 to-blue-500 rounded-full group-hover:scale-110 transition-transform">
@@ -90,12 +90,12 @@ ${formData.message}
                   <div className="font-semibold text-white group-hover:text-blue-400 transition-colors">
                     Email
                   </div>
-                  <div className="text-gray-400 text-sm">maxcointech1007@gmail.com</div>
+                  <div className="text-gray-400 text-sm">thtduoje@gmail.com</div>
                 </div>
               </a>
 
               <a
-                href="https://discord.com/users/maxcointech0000"
+                href="https://discord.com/users/maxcointech1007"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-indigo-500/50 transition-all duration-300"
@@ -107,12 +107,12 @@ ${formData.message}
                   <div className="font-semibold text-white group-hover:text-indigo-400 transition-colors">
                     Discord
                   </div>
-                  <div className="text-gray-400 text-sm">maxcointech0000</div>
+                  <div className="text-gray-400 text-sm">maxcointech1007</div>
                 </div>
               </a>
 
               <a
-                href="https://t.me/maxcointech1007"
+                href="https://t.me/maxcointech1010"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-cyan-500/50 transition-all duration-300"
@@ -124,7 +124,7 @@ ${formData.message}
                   <div className="font-semibold text-white group-hover:text-cyan-400 transition-colors">
                     Telegram
                   </div>
-                  <div className="text-gray-400 text-sm">maxcointech1007</div>
+                  <div className="text-gray-400 text-sm">maxcointech1010</div>
                 </div>
               </a>
             </div>
