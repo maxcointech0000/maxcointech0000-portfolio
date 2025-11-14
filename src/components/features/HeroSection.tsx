@@ -113,6 +113,15 @@ const HeroSection = () => {
             <MessageCircle size={20} />
             Telegram
           </a>
+          <a
+            href="https://wa.me/19297713201"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group flex items-center gap-3 px-6 py-3 bg-gradient-to-r from-green-600 to-emerald-600 text-white rounded-full hover:shadow-lg hover:shadow-green-500/25 transform hover:-translate-y-1 transition-all duration-300"
+          >
+            <MessageCircle size={20} />
+            WhatsApp
+          </a>
         </div>
 
         {/* Scroll indicator */}
