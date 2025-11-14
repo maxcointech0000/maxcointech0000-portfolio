@@ -127,6 +127,23 @@ ${formData.message}
                   <div className="text-gray-400 text-sm">maxcointech1010</div>
                 </div>
               </a>
+
+              <a
+                href="https://wa.me/19297713201"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex items-center gap-4 p-4 bg-gradient-to-r from-gray-900/50 to-gray-800/50 backdrop-blur-sm rounded-xl border border-gray-700/50 hover:border-green-500/50 transition-all duration-300"
+              >
+                <div className="p-3 bg-gradient-to-r from-green-600 to-emerald-600 rounded-full group-hover:scale-110 transition-transform">
+                  <MessageCircle className="text-white" size={20} />
+                </div>
+                <div>
+                  <div className="font-semibold text-white group-hover:text-green-400 transition-colors">
+                    WhatsApp
+                  </div>
+                  <div className="text-gray-400 text-sm">+1 (929) 771-3201</div>
+                </div>
+              </a>
             </div>
 
             {/* Quick stats */}
